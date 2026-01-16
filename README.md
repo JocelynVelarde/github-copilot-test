@@ -1,23 +1,23 @@
 <!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/JocelynVelarde)
+[![Followers](https://img.shields.io/github/followers/JocelynVelarde?label=Followers&style=flat-square)](https://github.com/JocelynVelarde)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Jocelyn Velarde. I'm a Cloud Developer at Insulet. I work on cloud development and hackathon coaching.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Mexico
+- 🎓 Education: Instituto Tecnológico y de Estudios Superiores de Monterrey
+- 📅 Hacking Since: 2024
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 [Hack-Harvard-2024] — [Use of computer vision to detect shoplifting activity and report it into a smart dashboard.] ([Python]) — github.com/JocelynVelarde/Hack-Harvard-2024
+- 🛠️ [valentines-tech] — [Build a simple recommendation system from scratch! Learn how to analyze data, implement recommendation algorithms, and create personalized suggestions.] ([Python]) — github.com/JocelynVelarde/valentines-tech
+- 🤖 [rag-template] — [Learn how to build a Retrieval-Augmented Generation (RAG) system from the ground up!] ([Python]) — github.com/JocelynVelarde/rag-template
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
+- 🧰 Languages: Python, C, C++
+- 🔭 Focus: Computer Vision, Machine Learning, Generative AI
+- ❤️ Interests: Hackathons, Education, IoT
 -->
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
