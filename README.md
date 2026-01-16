@@ -1,4 +1,3 @@
-<!-- Template:
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/JocelynVelarde)
 [![Followers](https://img.shields.io/github/followers/JocelynVelarde?label=Followers&style=flat-square)](https://github.com/JocelynVelarde)
 
@@ -18,7 +17,6 @@
 - 🧰 Languages: Python, C, C++
 - 🔭 Focus: Computer Vision, Machine Learning, Generative AI
 - ❤️ Interests: Hackathons, Education, IoT
--->
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
